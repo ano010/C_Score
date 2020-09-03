@@ -1,0 +1,4 @@
+{
+  "db": "mongodb://localhost/crick_score_test",
+  "port": 3900
+}
